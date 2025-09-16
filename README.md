@@ -8,7 +8,7 @@
 核心技術棧
 資料爬取：Python + BeautifulSoup + Requests
 資料處理：Pandas + NumPy
-自動化排程：Crontab / Windows Task Scheduler / Python Schedule
+自動化排程：Python Schedule
 資料視覺化：Tableau Public
 通知系統：Email/Line Notify/Slack API
 
