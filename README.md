@@ -6,10 +6,15 @@
 本作品集展示了一個完整的HR數據分析解決方案，從資料收集、處理、自動化到視覺化的端到端流程。適合應徵台積電Sr. HR Data Analyst等高階職位時展示技術實力與業務理解。
 
 核心技術棧
+
 資料爬取：Python + BeautifulSoup + Requests
+
 資料處理：Pandas + NumPy
+
 自動化排程：Python Schedule
+
 資料視覺化：Tableau Public
+
 通知系統：Email/Line Notify/Slack API
 
 系統架構流程
